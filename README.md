@@ -1,1 +1,0 @@
-# simpleBH.cpp
